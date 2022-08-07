@@ -15,3 +15,6 @@
 
 ### selesai navbar
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/78794419/183312137-3e2acd8f-64f6-4d94-8dc1-4547e06b0d03.png">
+
+### selesai navbar css
+<img width="432" alt="image" src="https://user-images.githubusercontent.com/78794419/183315032-fc7621bf-5a2c-401f-b40e-ddb109ee1dd9.png">

@@ -1,17 +1,11 @@
 # Latihan30hari
 Latihan30hari apa aja disini 
 
->figma salad landing page web
-```
-2
-```
+### Tools hebat :
+> backup data
+1. github
+2. medium
 
->figma android simple
-```
--
-```
-
->form registration using html
-```
-2
-```
+> belajar
+1. code dibuku dan kertas
+2. code di figma dan stackblitz

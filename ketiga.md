@@ -6,14 +6,14 @@
 
 bagian pertama NAVBAR yaitu :
 ===========================
-nav
+### nav
   span class = "brand"
   menu class = "menu"
 
 
 bagian kedua HERO/JUMBOTRON yaitu : 
 ===================================
-main
+### main
   div class = "hero/jumbotron"
     h1
     p
@@ -30,7 +30,7 @@ main
 
 bagian ketiga SECTION yaitu : 
 =============================
-section id="quotes"
+### section id="quotes"
   h1
   div class="quotes_card q1"
     p
@@ -45,4 +45,5 @@ section id="quotes"
     
  bagian ketiga FOOTER yaitu : 
  ============================
- Footer belum kita pelajari lagi, nanti kita update.
+ ### Footer 
+ belum kita pelajari lagi, nanti kita update.

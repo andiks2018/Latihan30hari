@@ -4,10 +4,12 @@
 Sabtu, 13 Agustus 2022
 > bahasa arob : 38 materi isim isyarat mudhof modof ilaihi
 > Matematika : 
-> Hapalan : 
+> Hapalan kali-kali : 1-10
+> Hapalan : OK
 
 ### Farhan
 Sabtu, 13 Agustus 2022
-Matematika :
-B. Arob : 
+Matematika : hal 29
+Hapalan Kali-kali : 
+B. Arob : hal 36
 Hapalan : 

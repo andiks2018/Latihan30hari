@@ -9,7 +9,7 @@ Sabtu, 13 Agustus 2022
 
 ### Farhan
 Sabtu, 13 Agustus 2022
-Matematika : hal 29
-Hapalan Kali-kali : 1-5
-B. Arob : hal 36
-Hapalan : 1-5
+> Matematika : hal 29
+> Hapalan Kali-kali : 1-5
+> B. Arob : hal 36
+> Hapalan : 1-5

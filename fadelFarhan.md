@@ -8,9 +8,9 @@ Sabtu, 13 Agustus 2022
 > Hapalan : OK
 
 Minggu, 14 Agustus 2022
-> Bahasa Arob : 39 materinya apa lihat kata bergaris bawah, kerjakan tugasnya
+> Bahasa Arob : 39;
 > Matematika : 
-> Kali-kali : 5- 10
+> Kali-kali : 5- 10;
 > Quran : 
 
 ### FARHAN
@@ -21,7 +21,7 @@ Sabtu, 13 Agustus 2022
 > Hapalan : 1-5
 
 Minggu, 14 Agustus 2022
-> Bahasa Arob : 28
-> Matematika : 31
-> Kali-kali : 5- 10
-> Quran : 
+> Bahasa Arob : 28;
+> Matematika : 31;
+> Kali-kali : 4;
+> Quran : Adduha;

@@ -7,9 +7,21 @@ Sabtu, 13 Agustus 2022
 > Hapalan kali-kali : 1-10
 > Hapalan : OK
 
+Minggu, 14 Agustus 2022
+> Bahasa Arob : 
+> Matematika : 
+> Kali-kali : 5- 10
+> Quran : 
+
 ### Farhan
 Sabtu, 13 Agustus 2022
 > Matematika : hal 29
 > Hapalan Kali-kali : 1-5
 > B. Arob : hal 36
 > Hapalan : 1-5
+
+Minggu, 14 Agustus 2022
+> Bahasa Arob : 28
+> Matematika : 
+> Kali-kali : 5- 10
+> Quran : 

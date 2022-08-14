@@ -1,6 +1,6 @@
 # absensi pelajaran matematika, bahasa arob dan hapalan alquran 
 
-### Fadel
+### FADEL
 Sabtu, 13 Agustus 2022
 > bahasa arob : 38 materi isim isyarat mudhof modof ilaihi
 > Matematika : hilang bukunya
@@ -8,12 +8,12 @@ Sabtu, 13 Agustus 2022
 > Hapalan : OK
 
 Minggu, 14 Agustus 2022
-> Bahasa Arob : 
+> Bahasa Arob : 39 materinya apa lihat kata bergaris bawah, kerjakan tugasnya
 > Matematika : 
 > Kali-kali : 5- 10
 > Quran : 
 
-### Farhan
+### FARHAN
 Sabtu, 13 Agustus 2022
 > Matematika : hal 29
 > Hapalan Kali-kali : 1-5
@@ -22,6 +22,6 @@ Sabtu, 13 Agustus 2022
 
 Minggu, 14 Agustus 2022
 > Bahasa Arob : 28
-> Matematika : 
+> Matematika : 31
 > Kali-kali : 5- 10
 > Quran : 

@@ -1,9 +1,9 @@
 # absensi pelajaran matematika, bahasa arob dan hapalan alquran 
 
 ### FADEL
-Sabtu, 13 Agustus 2022
-> bahasa arob : 38 materi isim isyarat mudhof modof ilaihi
-> Matematika : hilang bukunya
+Sabtu, 18 September 2022
+> bahasa arob : 47 materi jumlah ismiyah mubtada dan khobar 
+> Matematika : hal 42 materi perkalian dan faktor
 > Hapalan kali-kali : 1-10
 > Hapalan : OK
 

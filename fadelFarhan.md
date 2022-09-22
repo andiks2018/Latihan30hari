@@ -1,10 +1,10 @@
 # absensi pelajaran matematika, bahasa arob dan hapalan alquran 
 
 ### FADEL
-Sabtu, 18 September 2022
-> bahasa arob : 47 materi jumlah ismiyah mubtada dan khobar 
-> Matematika : hal 42 materi perkalian dan faktor
-> Hapalan kali-kali : 1-10
+Sabtu, 21 September 2022
+> bahasa arob : 50 materi jumlah ismiyah mubtada dan khobar 
+> Matematika : hal 44 materi perkalian dan faktor
+> Hapalan kali-kali : 5-6
 > Hapalan : OK
 
 Minggu, 14 Agustus 2022
